@@ -1,0 +1,19 @@
+\\studentfs\studentfiles$\ckirschbaum\my documents\visual studio 2015\Projects\TipTaxAndTotal\TipTaxAndTotal\bin\Debug\TipTaxAndTotal.exe.config
+\\studentfs\studentfiles$\ckirschbaum\my documents\visual studio 2015\Projects\TipTaxAndTotal\TipTaxAndTotal\bin\Debug\TipTaxAndTotal.exe
+\\studentfs\studentfiles$\ckirschbaum\my documents\visual studio 2015\Projects\TipTaxAndTotal\TipTaxAndTotal\bin\Debug\TipTaxAndTotal.pdb
+\\studentfs\studentfiles$\ckirschbaum\my documents\visual studio 2015\Projects\TipTaxAndTotal\TipTaxAndTotal\obj\Debug\TipTaxAndTotal.Form1.resources
+\\studentfs\studentfiles$\ckirschbaum\my documents\visual studio 2015\Projects\TipTaxAndTotal\TipTaxAndTotal\obj\Debug\TipTaxAndTotal.Properties.Resources.resources
+\\studentfs\studentfiles$\ckirschbaum\my documents\visual studio 2015\Projects\TipTaxAndTotal\TipTaxAndTotal\obj\Debug\TipTaxAndTotal.csproj.GenerateResource.Cache
+\\studentfs\studentfiles$\ckirschbaum\my documents\visual studio 2015\Projects\TipTaxAndTotal\TipTaxAndTotal\obj\Debug\TipTaxAndTotal.exe
+\\studentfs\studentfiles$\ckirschbaum\my documents\visual studio 2015\Projects\TipTaxAndTotal\TipTaxAndTotal\obj\Debug\TipTaxAndTotal.pdb
+\\studentfs\studentfiles$\ckirschbaum\My Documents\Visual Studio 2015\Projects\TipTaxAndTotal\TipTaxAndTotal\obj\Debug\TipTaxAndTotal.csprojResolveAssemblyReference.cache
+C:\Users\caleb\Desktop\School\programs\TipTaxAndTotal\TipTaxAndTotal\bin\Debug\TipTaxAndTotal.exe.config
+C:\Users\caleb\Desktop\School\programs\TipTaxAndTotal\TipTaxAndTotal\bin\Debug\TipTaxAndTotal.exe
+C:\Users\caleb\Desktop\School\programs\TipTaxAndTotal\TipTaxAndTotal\bin\Debug\TipTaxAndTotal.pdb
+C:\Users\caleb\Desktop\School\programs\TipTaxAndTotal\TipTaxAndTotal\obj\Debug\TipTaxAndTotal.csprojAssemblyReference.cache
+C:\Users\caleb\Desktop\School\programs\TipTaxAndTotal\TipTaxAndTotal\obj\Debug\TipTaxAndTotal.Form1.resources
+C:\Users\caleb\Desktop\School\programs\TipTaxAndTotal\TipTaxAndTotal\obj\Debug\TipTaxAndTotal.Properties.Resources.resources
+C:\Users\caleb\Desktop\School\programs\TipTaxAndTotal\TipTaxAndTotal\obj\Debug\TipTaxAndTotal.csproj.GenerateResource.cache
+C:\Users\caleb\Desktop\School\programs\TipTaxAndTotal\TipTaxAndTotal\obj\Debug\TipTaxAndTotal.csproj.CoreCompileInputs.cache
+C:\Users\caleb\Desktop\School\programs\TipTaxAndTotal\TipTaxAndTotal\obj\Debug\TipTaxAndTotal.exe
+C:\Users\caleb\Desktop\School\programs\TipTaxAndTotal\TipTaxAndTotal\obj\Debug\TipTaxAndTotal.pdb
